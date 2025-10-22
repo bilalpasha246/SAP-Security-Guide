@@ -1,0 +1,5 @@
+An Identity provider is a service that manages and stores identity information for individuals or entities such as usernames passwords and other personal data. It provides authentication and authorization services, allowing users to access multiple applications and services using a single set of login credentials.
+
+IdPs are commonly used in Single Sign-On (SSO) systems, where users can log in once and access various applications without having to log in separately to each one. Examples of identity providers include Google, Microsoft, and Okta.
+
+SAP ID Service is the default identity provider in SAP BTP. It is a preconfigured, standard SAP public IdP (account.sap.com) that all customers share. It has a preconfigured trust connection to all SAP BTP subaccounts. The SAP ID Service is fully managed and provided by SAP and you can only create a free user inside this SAP ID service. The SAP ID Service is also used for official SAP sites, including the SAP developer and partner community. It is where the S-Users, P-Users, and D-Users are managed.
